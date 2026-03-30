@@ -1,9 +1,6 @@
 
 {
   "suspended_domains": [
-    "badclient.com",
-    "vksmmpanel.com",
-    "www.vksmmpanel.com",
-    "https://vksmmpanel.com/"
+    "badclient.com"
   ]
 }
