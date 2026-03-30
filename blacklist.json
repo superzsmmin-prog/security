@@ -1,1 +1,7 @@
 
+{
+  "suspended_domains": [
+    "badclient.com",
+    "testdomain.com"
+  ]
+}
